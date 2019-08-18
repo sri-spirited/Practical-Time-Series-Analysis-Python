@@ -6,3 +6,5 @@ This is my consolidated and cleaned version of the code repository for [Practica
 This course has the following software requirements:<br/>
 Python 3.5
 
+### Launch interactive version in Binder 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sri-spirited/Practical-Time-Series-Analysis-Python/master)
